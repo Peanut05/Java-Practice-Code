@@ -2,7 +2,7 @@
 
              | class Class_Name
              |  {
-             |    public static void main(string[] args) 
+             |    public static void main(string args[]) 
  Class block |      {                                     |
              |                                            | main block
              |      }                                     |
