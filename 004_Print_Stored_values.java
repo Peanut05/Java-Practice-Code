@@ -1,6 +1,6 @@
 class PrintingValues
 {
-  Public.static.void main(String args[])
+  Public.static.void main(String[] args)
   {
     string name = "Peanut";
     string email = "peanut005@gmail.com" ;
