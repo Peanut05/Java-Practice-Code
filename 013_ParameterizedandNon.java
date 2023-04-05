@@ -7,4 +7,7 @@
 */
 
 // Zero Parameterized Method :=>>
+/*
+   1) The method which is declared without input parameters are known as zero parameterized method .
+*/
 
