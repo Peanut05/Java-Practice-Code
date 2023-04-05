@@ -9,5 +9,8 @@
 // Zero Parameterized Method :=>>
 /*
    1) The method which is declared without input parameters are known as zero parameterized method .
+   2) If method are zero parameterized we cannot pass any runtime data for specific method .
+   3) Zero parameterized method is also known as non-parameterized method .
+   
 */
 
