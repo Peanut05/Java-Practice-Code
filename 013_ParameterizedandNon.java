@@ -17,6 +17,25 @@
 
 // Parameterized Method :==>>
 /*
-   1) If the method accept input parameter the method will be known as parameterized method.
+   1) If the method accept input parameter the method will be known as parameterized method .
+   2) If the method is parameterized method then we can pass runtime data from spicific method .
+   3) It is possible to declare multipal input parameters in such a case we have to provide appropriate
+      values to the respective parameters .
 */
+ 
+class ProgramArea
+{
+   public staic void AreaOfSqure(int side)
+   {
+      double area = side * side ;
+      System.out.println("Area Of Squre Is :"+area);
+   }
+   public static void main(Strin[] args)
+   {
+      System.out.println("Main Start ...");
+      AreaOfSqure(10);
+      AreaOfSqure(5);
+      System.out.println("Main End ...");
+   }
+}
 
